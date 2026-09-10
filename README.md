@@ -8,11 +8,13 @@ O dashboard foi criado para acompanhar indicadores de vendas, como faturamento p
 
 Estou postando agora para deixar registrado o começo da minha evolução na área de dados e, futuramente, poder olhar para esse projeto e comparar com os próximos.
 
-## Dashboard
-
-![Dashboard](Dashboard/Image/Imagem_vendas.png)
-
 ## Ferramentas
 
 - Power BI
 - Excel
+
+## Dashboard
+
+![Dashboard](Dashboard/Image/Imagem_vendas.png)
+
+⚠️ Projeto inspirado no dashboard do canal Empowerdata.
